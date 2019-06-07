@@ -1,0 +1,14 @@
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\bin\Debug\ReconocimientoDeImagen.exe.config
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\bin\Debug\ReconocimientoDeImagen.exe
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\bin\Debug\ReconocimientoDeImagen.pdb
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\bin\Debug\Emgu.CV.UI.dll
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\bin\Debug\Emgu.CV.World.dll
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\bin\Debug\ZedGraph.dll
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\bin\Debug\Emgu.CV.UI.xml
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\bin\Debug\Emgu.CV.World.xml
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\obj\Debug\ReconocimientoDeImagen.csprojResolveAssemblyReference.cache
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\obj\Debug\ReconocimientoDeImagen.Form1.resources
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\obj\Debug\ReconocimientoDeImagen.Properties.Resources.resources
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\obj\Debug\ReconocimientoDeImagen.csproj.GenerateResource.Cache
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\obj\Debug\ReconocimientoDeImagen.exe
+D:\Reconocimiento De Imagen\ReconocimientoDeImagen\ReconocimientoDeImagen\obj\Debug\ReconocimientoDeImagen.pdb
